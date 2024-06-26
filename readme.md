@@ -5,33 +5,7 @@ mengganti angka kelipatan '4' dengan kata 'YES' dan mengganti angka kelipatan 3 
 
 pada soalno2.js berisi logika algoritma untuk menyusun angka menjadi bentuk segitiga siku-siku seperti berikut ini:
 
-a.  
-1
-22
-333
-4444
-55555
-
-b.
-1
-21
-321
-4321
-54321
-
-c.
-1
-23
-345
-4567
-56789
-
-d.
-1 10 11 20 21
-2 9 12 19 22
-3 8 13 18 23
-4 7 14 17 24
-5 6 15 16 25
+[!contoh output](ss.png)
 
 pada file soalno3.js adalah berisi query select table pada sebuah database. Terdapat 4 query dengan penjelasan sebagai berikut:
 
